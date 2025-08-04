@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Dagim Tessema
 
-<!--
-**dagimtessema/dagimtessema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository! This space showcases who I am, what I build, and what I'm passionate about.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer in the making who loves turning ideas into reality through code. Whether it's building sleek web apps, diving into data, or experimenting with new tech — I'm always learning and creating.
+
+- 🔭 Currently working on: Language data annotation for AI
+- 🌱 Learning: Python, Machine Learning
+- 💬 Ask me about: Web development, Python, or anything tech-related
+- 📫 How to reach me: [dagim.tes4321@gmail.com] [https://www.linkedin.com/in/dagim-tessema-04426254/]
+- ⚡ Fun fact: meditation junky
+
+## 🛠️ Tech Stack
+
+Here are some tools and technologies I enjoy working with:
+
+- **Languages:** JavaScript, Python, HTML/CSS
+- **Tools:** Git
+- **Other:** GitHub Pages
+
+## 🥇 Certifications
+
+Here are some certification I managed to get under my belt:
+
+- 🏝️Responsive Web Design by FreeCodeCamp
+
+## 🌐 Portfolio
+
+Check out my portfolio site: [dagimtessema.github.io](https://dagimtessema.github.io) 
+
+---
+
+Thanks for stopping by! Feel free to explore my repos and connect with me.
+
