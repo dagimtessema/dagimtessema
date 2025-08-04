@@ -26,10 +26,6 @@ Here are some certification I managed to get under my belt:
 
 - 🏝️Responsive Web Design by FreeCodeCamp
 
-## 🌐 Portfolio
-
-Check out my portfolio site: [dagimtessema.github.io](https://dagimtessema.github.io) 
-
 ---
 
 Thanks for stopping by! Feel free to explore my repos and connect with me.
