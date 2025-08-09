@@ -17,7 +17,7 @@ I'm a developer in the making who loves turning ideas into reality through code.
 Here are some tools and technologies I enjoy working with:
 
 - **Languages:** JavaScript, Python, HTML/CSS
-- **Tools:** Git
+- **Tools:** Git, SQLite
 - **Other:** GitHub Pages
 
 ## 🥇 Certifications
